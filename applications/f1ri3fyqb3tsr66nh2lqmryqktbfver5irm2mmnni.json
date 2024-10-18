@@ -35,11 +35,11 @@
     "Weekly Allocation": "1000TiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
+    "State": "Granted",
     "Validated At": "2024-10-18 04:09:09.036237909 UTC",
     "Validated By": "amiclan666",
     "Active": true,
-    "Updated At": "2024-10-18 04:09:09.036242716 UTC",
+    "Updated At": "2024-10-18 04:14:12.838160695 UTC",
     "Active Request ID": "8c10423f-badc-4a34-8ed3-6746eef274cb",
     "On Chain Address": "f1ri3fyqb3tsr66nh2lqmryqktbfver5irm2mmnni",
     "Multisig Address": "false",
@@ -51,9 +51,16 @@
       "Request Type": "First",
       "Created At": "2024-10-18 04:09:09.036244868 UTC",
       "Updated At": "2024-10-18 04:09:09.036246566 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "200TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "amiclan666",
+          "Signing Address": "f1i2znbisevlalmctotghgnroprplkioss73ka24i",
+          "Created At": "2024-10-18 04:14:10.182000000 UTC",
+          "Message CID": "bafy2bzacebhyqvoqppkj6avnnth2r2dzdd6647x3xh55kjeqdpyveo7kjvpju"
+        }
+      ]
     }
   ]
 }
