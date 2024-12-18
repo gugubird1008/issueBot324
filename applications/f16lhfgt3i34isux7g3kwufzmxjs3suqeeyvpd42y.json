@@ -35,11 +35,11 @@
     "Weekly Allocation": "1PiB"
   },
   "Lifecycle": {
-    "State": "ReadyToSign",
-    "Validated At": "2024-12-18 03:49:37.285908600 UTC",
+    "State": "Granted",
+    "Validated At": "2024-12-18 03:52:42.379311632 UTC",
     "Validated By": "amiclan666",
     "Active": true,
-    "Updated At": "2024-12-18 03:49:37.285912762 UTC",
+    "Updated At": "2024-12-18 03:52:42.379308430 UTC",
     "Active Request ID": "d13cc208-8517-41d4-ab38-ea106e0f1197",
     "On Chain Address": "f16lhfgt3i34isux7g3kwufzmxjs3suqeeyvpd42y",
     "Multisig Address": "false",
@@ -67,9 +67,16 @@
       "Request Type": "Refill",
       "Created At": "2024-12-18 03:49:37.285916227 UTC",
       "Updated At": "2024-12-18 03:49:37.285917255 UTC",
-      "Active": true,
+      "Active": false,
       "Allocation Amount": "500TiB",
-      "Signers": []
+      "Signers": [
+        {
+          "Github Username": "amiclan666",
+          "Signing Address": "f1i2znbisevlalmctotghgnroprplkioss73ka24i",
+          "Created At": "2024-12-18 03:52:38.504000000 UTC",
+          "Message CID": "bafy2bzaceask3ixujdsudbjg2oyp66t4wrm6d5ax4pirx7wvduraotcqr2xvc"
+        }
+      ]
     }
   ]
 }
